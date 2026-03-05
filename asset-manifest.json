@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vettriselvan-portfolio/static/css/main.f419b906.css",
-    "main.js": "/vettriselvan-portfolio/static/js/main.0ed17af6.js",
+    "main.js": "/vettriselvan-portfolio/static/js/main.decc1a6e.js",
     "static/js/453.3f1fb51b.chunk.js": "/vettriselvan-portfolio/static/js/453.3f1fb51b.chunk.js",
     "static/media/logo.png": "/vettriselvan-portfolio/static/media/logo.8f6821c909cace10b56c.png",
     "static/media/avatar.jpg": "/vettriselvan-portfolio/static/media/avatar.24d1568052f1e34e089e.jpg",
@@ -10,9 +10,9 @@
     "static/media/suicide.png": "/vettriselvan-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
     "static/media/codeEditor.png": "/vettriselvan-portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/vettriselvan-portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/VETTRISELVAN S.CV.pdf": "/vettriselvan-portfolio/static/media/VETTRISELVAN S.CV.1b21fc5e77fea0920a52.pdf",
     "static/media/home-main.svg": "/vettriselvan-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/vettriselvan-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/VETTRISELVAN.Cv.pdf": "/vettriselvan-portfolio/static/media/VETTRISELVAN.Cv.df590f9dee7f2c72ed00.pdf",
     "static/media/chatify.png": "/vettriselvan-portfolio/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/go.svg": "/vettriselvan-portfolio/static/media/go.9a9bf59ea453fc0e3ec82471b0c300ab.svg",
     "static/media/SQL.svg": "/vettriselvan-portfolio/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
@@ -43,11 +43,11 @@
     "static/media/Haskell.svg": "/vettriselvan-portfolio/static/media/Haskell.084122e02bec646ad186861642137932.svg",
     "static/media/Firebase.svg": "/vettriselvan-portfolio/static/media/Firebase.de3da3a4068963dd30fc0f885f170428.svg",
     "main.f419b906.css.map": "/vettriselvan-portfolio/static/css/main.f419b906.css.map",
-    "main.0ed17af6.js.map": "/vettriselvan-portfolio/static/js/main.0ed17af6.js.map",
+    "main.decc1a6e.js.map": "/vettriselvan-portfolio/static/js/main.decc1a6e.js.map",
     "453.3f1fb51b.chunk.js.map": "/vettriselvan-portfolio/static/js/453.3f1fb51b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f419b906.css",
-    "static/js/main.0ed17af6.js"
+    "static/js/main.decc1a6e.js"
   ]
 }
